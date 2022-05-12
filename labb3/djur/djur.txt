@@ -1,0 +1,6 @@
+D,Varg,Canis Lupis,40.0,Grå,false,Aooooo
+D,Tiger,Panthera tigris,200.0,gul och svart,false,aarhj
+F,Kondor,Vultur gryphus,11.0,false,true,klippblock,[tyst]
+R,komobo,Varanus komodoensis,70.0,gräs,true,aarhag
+F,asd,db,1.0,true,false,ed,d
+R,asd,321,1000.0,n,false,n
