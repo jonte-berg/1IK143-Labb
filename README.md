@@ -1,2 +1,2 @@
-# 1IK143-Labb
+# Labb
 laborationer
